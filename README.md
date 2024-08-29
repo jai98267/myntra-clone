@@ -1,1 +1,2 @@
-# myntra-clone
+# myntra clone
+shift to master branch
